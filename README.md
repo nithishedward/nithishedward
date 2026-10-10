@@ -103,16 +103,6 @@ print(me.motto())
   <img src="https://streak-stats.demolab.com?user=nithishedward&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<!-- 8. ACTIVITY GRAPH -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishedward&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<!-- 9. TROPHY WALL -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithishedward&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
 ---
 
 ## 💼 Experience & Learning Journey
@@ -146,13 +136,12 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[NoteGenie](https://github.com/nithishedward/notegenie)** | Python, NLP, Flask, JavaScript | AI-powered chatbot tool that generates smart, summarized notes from conversations/text — _add exact usage/accuracy metrics here_ |
-| **[IoT Smart Automation Project](https://github.com/nithishedward)** | C, Arduino/Raspberry Pi, Sensors | Hardware-software integrated system automating real-world tasks — _add sensor count / response time metrics here_ |
-| **[IoT Project #2](https://github.com/nithishedward)** | Python, IoT Modules, HTML/CSS | Another IoT build focused on smart monitoring/control — _add project-specific details & metrics here_ |
+| **[NoteGenie](https://github.com/nithishedward/notegenie)** | Python, NLP, Flask, JavaScript | AI-powered chatbot tool that generates smart, summarized notes from conversations/text  |
+| **[IoT Smart Automation Project](https://github.com/nithishedward)** | C, Arduino/Raspberry Pi, Sensors | Hardware-software integrated system automating real-world tasks |
+| **[IoT Project #2](https://github.com/nithishedward)** | Python, IoT Modules, HTML/CSS | Another IoT build focused on smart monitoring/control |
 
 </div>
 
-> ✏️ **Note:** Replace the project links and metric placeholders above with your actual repo URLs and real numbers (accuracy %, response time, users, etc.) once available.
 
 ---
 
@@ -165,7 +154,6 @@ print(me.motto())
 | 🤖 | Built NoteGenie | Developed a working AI chatbot note-taking tool from scratch |
 | 🔌 | IoT Projects | Built and deployed multiple IoT-based automation projects |
 | 🧑‍💻 | Continuous Learner | Actively building skills across C, Python, frontend & backend development |
-| 🏅 | _Add your award/rank_ | _e.g. Hackathon win, LeetCode rating, competition rank — update with exact numbers_ |
 
 </div>
 
@@ -177,7 +165,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech — Artificial Intelligence & Machine Learning | Jeppiaar University, Chennai | 3rd Year (Ongoing) | CGPA: 7.64 |
+| B.Tech — Artificial Intelligence & Machine Learning | Jeppiaar University, Chennai | 3rd Year (Ongoing) | CGPA: 7.89 |
 
 </div>
 
